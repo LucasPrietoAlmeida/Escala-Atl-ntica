@@ -104,6 +104,3 @@ El proyecto incluye un formulario visual para que los visitantes puedan solicita
 
 **Escala Atlántica** es un proyecto empresarial ficticio desarrollado en el contexto del **Hub de Empleabilidad**, como ejercicio práctico de diseño, desarrollo web y trabajo en equipo.
 
----
-
-*Escala Atlántica — Tu escala, una experiencia inolvidable.*
